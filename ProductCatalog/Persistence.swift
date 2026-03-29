@@ -1,10 +1,3 @@
-//
-//  Persistence.swift
-//  ProductCatalog
-//
-//  Created by xpydr on 2026-03-29.
-//
-
 import CoreData
 
 struct PersistenceController {

@@ -1,10 +1,3 @@
-//
-//  ProductCatalogApp.swift
-//  ProductCatalog
-//
-//  Created by xpydr on 2026-03-29.
-//
-
 import SwiftUI
 import CoreData
 
